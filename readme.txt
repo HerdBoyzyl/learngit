@@ -1,1 +1,2 @@
 lzy hello world!
+Git is a free software.
